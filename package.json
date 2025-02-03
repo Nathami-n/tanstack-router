@@ -1,4 +1,11 @@
 {
+	"type": "module",
+	"scripts": {
+		"dev": "vinxi dev",
+		"build": "vinxi build",
+		"start": "vinxi start"
+
+	},
 	"dependencies": {
 		"@tanstack/react-router": "^1.99.0",
 		"@tanstack/start": "^1.99.3",
